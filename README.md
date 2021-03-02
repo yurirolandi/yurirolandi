@@ -3,7 +3,7 @@
 <hr>
 
 Olá, me nome é Yuri e sou desenvolvedor Frontend!
-- Atuo como desenvolvedor Front-end Jr na MEDGRUPO
+- Atuo como desenvolvedor Front-end  na MEDGRUPO
 - Formado em Analise e desenvolvimento de sistemas
 - Tecnologias: React.js, Vue.js e Javascript
 
