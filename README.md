@@ -1,6 +1,5 @@
-## Heey, tudo bem ? 👋
+## Heey, tudo bem ?, Bem vindo ao meu github page! 👋
 
-<hr>
 
 Olá, me nome é Yuri e sou desenvolvedor Frontend!
 - Atuo como desenvolvedor Front-end  na MEDGRUPO
