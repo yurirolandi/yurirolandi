@@ -3,7 +3,7 @@
 <!--
 **yurirolandi/yurirolandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![yurirolandi GitHub stats](https://github-readme-stats.vercel.app/api?yurirolandi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![yurirolandi GitHub stats](https://github-readme-stats.vercel.app/api?username=yurirolandi)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
