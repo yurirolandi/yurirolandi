@@ -2,7 +2,7 @@
 
 
 Olá, me nome é Yuri e sou desenvolvedor Frontend!
-- Atuo como desenvolvedor Front-end  na MEDGRUPO
+- Atuo como desenvolvedor Front-end  na STORM GROUP
 - Formado em Analise e desenvolvimento de sistemas
 
 **Ferramentas:**  
